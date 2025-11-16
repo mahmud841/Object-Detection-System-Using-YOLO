@@ -1,4 +1,4 @@
-# Real Time Object Detection Using Machine Learning
+# Object Detection Using Machine Learning with YOLOv
 
 #### Introduction:
 
@@ -54,11 +54,4 @@ python yolo_project.py --weights_location ./weights/yolov4-tiny-416 --model yolo
   --model: yolov3 or yolov4
 --framework: what framework to use (tf, trt, tflite)
 ```
-
-
-#### Count Objects Per Class
-To count the number of objects for each individual class of your object detector you need to add the custom flag "--count" as well as change one line in the detect.py or detect_video.py script. By default the count_objects function has a parameter called <strong>by_class</strong> that is set to False. If you change this parameter to <strong>True</strong> it will count per class instead.
-
-#### Print Detailed Info About Each Detection (class, confidence, bounding box coordinates)
-I have created a custom flag called <strong>INFO</strong> that can be added to any detect.py or detect_video.py commands in order to print detailed information about each detection made by the object detector. To print the detailed information to your command prompt just add the flag "--info" to any of your commands. The information on each detection includes the class, confidence in the detection and the bounding box coordinates of the detection in xmin, ymin, xmax, ymax format.
 
