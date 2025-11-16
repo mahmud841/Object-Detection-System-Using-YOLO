@@ -1,0 +1,1089 @@
+[
+    {
+        "label": "tensorflow",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tensorflow",
+        "description": "tensorflow",
+        "detail": "tensorflow",
+        "documentation": {}
+    },
+    {
+        "label": "core.common",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "core.common",
+        "description": "core.common",
+        "detail": "core.common",
+        "documentation": {}
+    },
+    {
+        "label": "EasyDict",
+        "importPath": "easydict",
+        "description": "easydict",
+        "isExtraImport": true,
+        "detail": "easydict",
+        "documentation": {}
+    },
+    {
+        "label": "EasyDict",
+        "importPath": "easydict",
+        "description": "easydict",
+        "isExtraImport": true,
+        "detail": "easydict",
+        "documentation": {}
+    },
+    {
+        "label": "cv2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cv2",
+        "description": "cv2",
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "colorsys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "colorsys",
+        "description": "colorsys",
+        "detail": "colorsys",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "pytesseract",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytesseract",
+        "description": "pytesseract",
+        "detail": "pytesseract",
+        "documentation": {}
+    },
+    {
+        "label": "cfg",
+        "importPath": "core.config",
+        "description": "core.config",
+        "isExtraImport": true,
+        "detail": "core.config",
+        "documentation": {}
+    },
+    {
+        "label": "cfg",
+        "importPath": "core.config",
+        "description": "core.config",
+        "isExtraImport": true,
+        "detail": "core.config",
+        "documentation": {}
+    },
+    {
+        "label": "cfg",
+        "importPath": "core.config",
+        "description": "core.config",
+        "isExtraImport": true,
+        "detail": "core.config",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "core.utils",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "core.utils",
+        "description": "core.utils",
+        "detail": "core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "read_class_names",
+        "importPath": "core.utils",
+        "description": "core.utils",
+        "isExtraImport": true,
+        "detail": "core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "read_class_names",
+        "importPath": "core.utils",
+        "description": "core.utils",
+        "isExtraImport": true,
+        "detail": "core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "core.backbone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "core.backbone",
+        "description": "core.backbone",
+        "detail": "core.backbone",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "FLAGS",
+        "importPath": "absl.flags",
+        "description": "absl.flags",
+        "isExtraImport": true,
+        "detail": "absl.flags",
+        "documentation": {}
+    },
+    {
+        "label": "FLAGS",
+        "importPath": "absl.flags",
+        "description": "absl.flags",
+        "isExtraImport": true,
+        "detail": "absl.flags",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "absl",
+        "description": "absl",
+        "isExtraImport": true,
+        "detail": "absl",
+        "documentation": {}
+    },
+    {
+        "label": "flags",
+        "importPath": "absl",
+        "description": "absl",
+        "isExtraImport": true,
+        "detail": "absl",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "importPath": "absl",
+        "description": "absl",
+        "isExtraImport": true,
+        "detail": "absl",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "absl",
+        "description": "absl",
+        "isExtraImport": true,
+        "detail": "absl",
+        "documentation": {}
+    },
+    {
+        "label": "flags",
+        "importPath": "absl",
+        "description": "absl",
+        "isExtraImport": true,
+        "detail": "absl",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "importPath": "absl",
+        "description": "absl",
+        "isExtraImport": true,
+        "detail": "absl",
+        "documentation": {}
+    },
+    {
+        "label": "filter_boxes",
+        "importPath": "core.yolov4",
+        "description": "core.yolov4",
+        "isExtraImport": true,
+        "detail": "core.yolov4",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigProto",
+        "importPath": "tensorflow.compat.v1",
+        "description": "tensorflow.compat.v1",
+        "isExtraImport": true,
+        "detail": "tensorflow.compat.v1",
+        "documentation": {}
+    },
+    {
+        "label": "InteractiveSession",
+        "importPath": "tensorflow.compat.v1",
+        "description": "tensorflow.compat.v1",
+        "isExtraImport": true,
+        "detail": "tensorflow.compat.v1",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigProto",
+        "importPath": "tensorflow.compat.v1",
+        "description": "tensorflow.compat.v1",
+        "isExtraImport": true,
+        "detail": "tensorflow.compat.v1",
+        "documentation": {}
+    },
+    {
+        "label": "InteractiveSession",
+        "importPath": "tensorflow.compat.v1",
+        "description": "tensorflow.compat.v1",
+        "isExtraImport": true,
+        "detail": "tensorflow.compat.v1",
+        "documentation": {}
+    },
+    {
+        "label": "tag_constants",
+        "importPath": "tensorflow.python.saved_model",
+        "description": "tensorflow.python.saved_model",
+        "isExtraImport": true,
+        "detail": "tensorflow.python.saved_model",
+        "documentation": {}
+    },
+    {
+        "label": "tag_constants",
+        "importPath": "tensorflow.python.saved_model",
+        "description": "tensorflow.python.saved_model",
+        "isExtraImport": true,
+        "detail": "tensorflow.python.saved_model",
+        "documentation": {}
+    },
+    {
+        "label": "cfg",
+        "importPath": "core.configuration",
+        "description": "core.configuration",
+        "isExtraImport": true,
+        "detail": "core.configuration",
+        "documentation": {}
+    },
+    {
+        "label": "cfg",
+        "importPath": "core.configuration",
+        "description": "core.configuration",
+        "isExtraImport": true,
+        "detail": "core.configuration",
+        "documentation": {}
+    },
+    {
+        "label": "cfg",
+        "importPath": "core.configuration",
+        "description": "core.configuration",
+        "isExtraImport": true,
+        "detail": "core.configuration",
+        "documentation": {}
+    },
+    {
+        "label": "cfg",
+        "importPath": "core.configuration",
+        "description": "core.configuration",
+        "isExtraImport": true,
+        "detail": "core.configuration",
+        "documentation": {}
+    },
+    {
+        "label": "time,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time.",
+        "description": "time.",
+        "detail": "time.",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "filter_boxes",
+        "importPath": "core.yolo",
+        "description": "core.yolo",
+        "isExtraImport": true,
+        "detail": "core.yolo",
+        "documentation": {}
+    },
+    {
+        "label": "darknet53",
+        "kind": 2,
+        "importPath": "Case of  Study.core.backbone",
+        "description": "Case of  Study.core.backbone",
+        "peekOfCode": "def darknet53(input_data):\n    input_data = common.convolutional(input_data, (3, 3,  3,  32))\n    input_data = common.convolutional(input_data, (3, 3, 32,  64), downsample=True)\n    for i in range(1):\n        input_data = common.residual_block(input_data,  64,  32, 64)\n    input_data = common.convolutional(input_data, (3, 3,  64, 128), downsample=True)\n    for i in range(2):\n        input_data = common.residual_block(input_data, 128,  64, 128)\n    input_data = common.convolutional(input_data, (3, 3, 128, 256), downsample=True)\n    for i in range(8):",
+        "detail": "Case of  Study.core.backbone",
+        "documentation": {}
+    },
+    {
+        "label": "cspdarknet53",
+        "kind": 2,
+        "importPath": "Case of  Study.core.backbone",
+        "description": "Case of  Study.core.backbone",
+        "peekOfCode": "def cspdarknet53(input_data):\n    input_data = common.convolutional(input_data, (3, 3,  3,  32), activate_type=\"mish\")\n    input_data = common.convolutional(input_data, (3, 3, 32,  64), downsample=True, activate_type=\"mish\")\n    route = input_data\n    route = common.convolutional(route, (1, 1, 64, 64), activate_type=\"mish\")\n    input_data = common.convolutional(input_data, (1, 1, 64, 64), activate_type=\"mish\")\n    for i in range(1):\n        input_data = common.residual_block(input_data,  64,  32, 64, activate_type=\"mish\")\n    input_data = common.convolutional(input_data, (1, 1, 64, 64), activate_type=\"mish\")\n    input_data = tf.concat([input_data, route], axis=-1)",
+        "detail": "Case of  Study.core.backbone",
+        "documentation": {}
+    },
+    {
+        "label": "cspdarknet53_tiny",
+        "kind": 2,
+        "importPath": "Case of  Study.core.backbone",
+        "description": "Case of  Study.core.backbone",
+        "peekOfCode": "def cspdarknet53_tiny(input_data):\n    input_data = common.convolutional(input_data, (3, 3, 3, 32), downsample=True)\n    input_data = common.convolutional(input_data, (3, 3, 32, 64), downsample=True)\n    input_data = common.convolutional(input_data, (3, 3, 64, 64))\n    route = input_data\n    input_data = common.route_group(input_data, 2, 1)\n    input_data = common.convolutional(input_data, (3, 3, 32, 32))\n    route_1 = input_data\n    input_data = common.convolutional(input_data, (3, 3, 32, 32))\n    input_data = tf.concat([input_data, route_1], axis=-1)",
+        "detail": "Case of  Study.core.backbone",
+        "documentation": {}
+    },
+    {
+        "label": "darknet53_tiny",
+        "kind": 2,
+        "importPath": "Case of  Study.core.backbone",
+        "description": "Case of  Study.core.backbone",
+        "peekOfCode": "def darknet53_tiny(input_data):\n    input_data = common.convolutional(input_data, (3, 3, 3, 16))\n    input_data = tf.keras.layers.MaxPool2D(2, 2, 'same')(input_data)\n    input_data = common.convolutional(input_data, (3, 3, 16, 32))\n    input_data = tf.keras.layers.MaxPool2D(2, 2, 'same')(input_data)\n    input_data = common.convolutional(input_data, (3, 3, 32, 64))\n    input_data = tf.keras.layers.MaxPool2D(2, 2, 'same')(input_data)\n    input_data = common.convolutional(input_data, (3, 3, 64, 128))\n    input_data = tf.keras.layers.MaxPool2D(2, 2, 'same')(input_data)\n    input_data = common.convolutional(input_data, (3, 3, 128, 256))",
+        "detail": "Case of  Study.core.backbone",
+        "documentation": {}
+    },
+    {
+        "label": "BatchNormalization",
+        "kind": 6,
+        "importPath": "Case of  Study.core.common",
+        "description": "Case of  Study.core.common",
+        "peekOfCode": "class BatchNormalization(tf.keras.layers.BatchNormalization):\n    \"\"\"\n    \"Frozen state\" and \"inference mode\" are two separate concepts.\n    `layer.trainable = False` is to freeze the layer, so the layer will use\n    stored moving `var` and `mean` in the \"inference mode\", and both `gama`\n    and `beta` will not be updated !\n    \"\"\"\n    def call(self, x, training=False):\n        if not training:\n            training = tf.constant(False)",
+        "detail": "Case of  Study.core.common",
+        "documentation": {}
+    },
+    {
+        "label": "convolutional",
+        "kind": 2,
+        "importPath": "Case of  Study.core.common",
+        "description": "Case of  Study.core.common",
+        "peekOfCode": "def convolutional(input_layer, filters_shape, downsample=False, activate=True, bn=True, activate_type='leaky'):\n    if downsample:\n        input_layer = tf.keras.layers.ZeroPadding2D(((1, 0), (1, 0)))(input_layer)\n        padding = 'valid'\n        strides = 2\n    else:\n        strides = 1\n        padding = 'same'\n    conv = tf.keras.layers.Conv2D(filters=filters_shape[-1], kernel_size = filters_shape[0], strides=strides, padding=padding,\n                                  use_bias=not bn, kernel_regularizer=tf.keras.regularizers.l2(0.0005),",
+        "detail": "Case of  Study.core.common",
+        "documentation": {}
+    },
+    {
+        "label": "mish",
+        "kind": 2,
+        "importPath": "Case of  Study.core.common",
+        "description": "Case of  Study.core.common",
+        "peekOfCode": "def mish(x):\n    return x * tf.math.tanh(tf.math.softplus(x))\ndef residual_block(input_layer, input_channel, filter_num1, filter_num2, activate_type='leaky'):\n    short_cut = input_layer\n    conv = convolutional(input_layer, filters_shape=(1, 1, input_channel, filter_num1), activate_type=activate_type)\n    conv = convolutional(conv       , filters_shape=(3, 3, filter_num1,   filter_num2), activate_type=activate_type)\n    residual_output = short_cut + conv\n    return residual_output\ndef route_group(input_layer, groups, group_id):\n    convs = tf.split(input_layer, num_or_size_splits=groups, axis=-1)",
+        "detail": "Case of  Study.core.common",
+        "documentation": {}
+    },
+    {
+        "label": "residual_block",
+        "kind": 2,
+        "importPath": "Case of  Study.core.common",
+        "description": "Case of  Study.core.common",
+        "peekOfCode": "def residual_block(input_layer, input_channel, filter_num1, filter_num2, activate_type='leaky'):\n    short_cut = input_layer\n    conv = convolutional(input_layer, filters_shape=(1, 1, input_channel, filter_num1), activate_type=activate_type)\n    conv = convolutional(conv       , filters_shape=(3, 3, filter_num1,   filter_num2), activate_type=activate_type)\n    residual_output = short_cut + conv\n    return residual_output\ndef route_group(input_layer, groups, group_id):\n    convs = tf.split(input_layer, num_or_size_splits=groups, axis=-1)\n    return convs[group_id]\ndef upsample(input_layer):",
+        "detail": "Case of  Study.core.common",
+        "documentation": {}
+    },
+    {
+        "label": "route_group",
+        "kind": 2,
+        "importPath": "Case of  Study.core.common",
+        "description": "Case of  Study.core.common",
+        "peekOfCode": "def route_group(input_layer, groups, group_id):\n    convs = tf.split(input_layer, num_or_size_splits=groups, axis=-1)\n    return convs[group_id]\ndef upsample(input_layer):\n    return tf.image.resize(input_layer, (input_layer.shape[1] * 2, input_layer.shape[2] * 2), method='bilinear')",
+        "detail": "Case of  Study.core.common",
+        "documentation": {}
+    },
+    {
+        "label": "upsample",
+        "kind": 2,
+        "importPath": "Case of  Study.core.common",
+        "description": "Case of  Study.core.common",
+        "peekOfCode": "def upsample(input_layer):\n    return tf.image.resize(input_layer, (input_layer.shape[1] * 2, input_layer.shape[2] * 2), method='bilinear')",
+        "detail": "Case of  Study.core.common",
+        "documentation": {}
+    },
+    {
+        "label": "Number_plate_detection",
+        "kind": 2,
+        "importPath": "Case of  Study.core.utils",
+        "description": "Case of  Study.core.utils",
+        "peekOfCode": "def Number_plate_detection(img, coords):\n    xmin, ymin, xmax, ymax = coords\n    box = img[int(ymin)-5:int(ymax)+5, int(xmin)-5:int(xmax)+5]\n    gray = cv2.cvtColor(box, cv2.COLOR_RGB2GRAY)\n    gray = cv2.resize(gray, None, fx = 3, fy = 3, interpolation = cv2.INTER_CUBIC)\n    blur = cv2.GaussianBlur(gray, (5,5), 0)\n    ret, thresh = cv2.threshold(gray, 0, 255, cv2.THRESH_OTSU | cv2.THRESH_BINARY_INV)\n    rect_kern = cv2.getStructuringElement(cv2.MORPH_RECT, (5,5))\n    dilation = cv2.dilate(thresh, rect_kern, iterations = 1)\n    try:",
+        "detail": "Case of  Study.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_freeze_layer",
+        "kind": 2,
+        "importPath": "Case of  Study.core.utils",
+        "description": "Case of  Study.core.utils",
+        "peekOfCode": "def load_freeze_layer(model='yolov4', tiny=False):\n    if tiny:\n        if model == 'yolov3':\n            freeze_layouts = ['conv2d_9', 'conv2d_12']\n        else:\n            freeze_layouts = ['conv2d_17', 'conv2d_20']\n    else:\n        if model == 'yolov3':\n            freeze_layouts = ['conv2d_58', 'conv2d_66', 'conv2d_74']\n        else:",
+        "detail": "Case of  Study.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_weights",
+        "kind": 2,
+        "importPath": "Case of  Study.core.utils",
+        "description": "Case of  Study.core.utils",
+        "peekOfCode": "def load_weights(model, weights_file, model_name='yolov4', is_tiny=False):\n    if is_tiny:\n        if model_name == 'yolov3':\n            layer_size = 13\n            output_pos = [9, 12]\n        else:\n            layer_size = 21\n            output_pos = [17, 20]\n    else:\n        if model_name == 'yolov3':",
+        "detail": "Case of  Study.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "read_class_names",
+        "kind": 2,
+        "importPath": "Case of  Study.core.utils",
+        "description": "Case of  Study.core.utils",
+        "peekOfCode": "def read_class_names(class_file_name):\n    names = {}\n    with open(class_file_name, 'r') as data:\n        for ID, name in enumerate(data):\n            names[ID] = name.strip('\\n')\n    return names\ndef load_config(FLAGS):\n    if FLAGS.tiny:\n        STRIDES = np.array(cfg.YOLO.STRIDES_TINY)\n        ANCHORS = get_anchors(cfg.YOLO.ANCHORS_TINY, FLAGS.tiny)",
+        "detail": "Case of  Study.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_config",
+        "kind": 2,
+        "importPath": "Case of  Study.core.utils",
+        "description": "Case of  Study.core.utils",
+        "peekOfCode": "def load_config(FLAGS):\n    if FLAGS.tiny:\n        STRIDES = np.array(cfg.YOLO.STRIDES_TINY)\n        ANCHORS = get_anchors(cfg.YOLO.ANCHORS_TINY, FLAGS.tiny)\n        XYSCALE = cfg.YOLO.XYSCALE_TINY if FLAGS.model == 'yolov4' else [1, 1]\n    else:\n        STRIDES = np.array(cfg.YOLO.STRIDES)\n        ANCHORS = get_anchors(cfg.YOLO.ANCHORS, FLAGS.tiny)\n        XYSCALE = cfg.YOLO.XYSCALE if FLAGS.model == 'yolov4' else [1, 1, 1]\n    NUM_CLASS = len(read_class_names(cfg.YOLO.CLASSES))",
+        "detail": "Case of  Study.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_anchors",
+        "kind": 2,
+        "importPath": "Case of  Study.core.utils",
+        "description": "Case of  Study.core.utils",
+        "peekOfCode": "def get_anchors(anchors_path, tiny=False):\n    anchors = np.array(anchors_path)\n    if tiny:\n        return anchors.reshape(2, 3, 2)\n    else:\n        return anchors.reshape(3, 3, 2)\ndef image_preprocess(image, target_size, gt_boxes=None):\n    ih, iw    = target_size\n    h,  w, _  = image.shape\n    scale = min(iw/w, ih/h)",
+        "detail": "Case of  Study.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "image_preprocess",
+        "kind": 2,
+        "importPath": "Case of  Study.core.utils",
+        "description": "Case of  Study.core.utils",
+        "peekOfCode": "def image_preprocess(image, target_size, gt_boxes=None):\n    ih, iw    = target_size\n    h,  w, _  = image.shape\n    scale = min(iw/w, ih/h)\n    nw, nh  = int(scale * w), int(scale * h)\n    image_resized = cv2.resize(image, (nw, nh))\n    image_paded = np.full(shape=[ih, iw, 3], fill_value=128.0)\n    dw, dh = (iw - nw) // 2, (ih-nh) // 2\n    image_paded[dh:nh+dh, dw:nw+dw, :] = image_resized\n    image_paded = image_paded / 255.",
+        "detail": "Case of  Study.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "format_boxes",
+        "kind": 2,
+        "importPath": "Case of  Study.core.utils",
+        "description": "Case of  Study.core.utils",
+        "peekOfCode": "def format_boxes(bboxes, image_height, image_width):\n    for box in bboxes:\n        ymin = int(box[0] * image_height)\n        xmin = int(box[1] * image_width)\n        ymax = int(box[2] * image_height)\n        xmax = int(box[3] * image_width)\n        box[0], box[1], box[2], box[3] = xmin, ymin, xmax, ymax\n    return bboxes\ndef draw_bbox(image, bboxes, info = False, counted_classes = None, show_label=True, allowed_classes=list(read_class_names(cfg.YOLO.CLASSES).values()), read_plate = False):\n    classes = read_class_names(cfg.YOLO.CLASSES)",
+        "detail": "Case of  Study.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "draw_bbox",
+        "kind": 2,
+        "importPath": "Case of  Study.core.utils",
+        "description": "Case of  Study.core.utils",
+        "peekOfCode": "def draw_bbox(image, bboxes, info = False, counted_classes = None, show_label=True, allowed_classes=list(read_class_names(cfg.YOLO.CLASSES).values()), read_plate = False):\n    classes = read_class_names(cfg.YOLO.CLASSES)\n    num_classes = len(classes)\n    image_h, image_w, _ = image.shape\n    hsv_tuples = [(1.0 * x / num_classes, 1., 1.) for x in range(num_classes)]\n    colors = list(map(lambda x: colorsys.hsv_to_rgb(*x), hsv_tuples))\n    colors = list(map(lambda x: (int(x[0] * 255), int(x[1] * 255), int(x[2] * 255)), colors))\n    random.seed(0)\n    random.shuffle(colors)\n    random.seed(None)",
+        "detail": "Case of  Study.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "bbox_iou",
+        "kind": 2,
+        "importPath": "Case of  Study.core.utils",
+        "description": "Case of  Study.core.utils",
+        "peekOfCode": "def bbox_iou(bboxes1, bboxes2):\n    bboxes1_area = bboxes1[..., 2] * bboxes1[..., 3]\n    bboxes2_area = bboxes2[..., 2] * bboxes2[..., 3]\n    bboxes1_coor = tf.concat(\n        [\n            bboxes1[..., :2] - bboxes1[..., 2:] * 0.5,\n            bboxes1[..., :2] + bboxes1[..., 2:] * 0.5,\n        ],\n        axis=-1,\n    )",
+        "detail": "Case of  Study.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "bbox_giou",
+        "kind": 2,
+        "importPath": "Case of  Study.core.utils",
+        "description": "Case of  Study.core.utils",
+        "peekOfCode": "def bbox_giou(bboxes1, bboxes2):\n    bboxes1_area = bboxes1[..., 2] * bboxes1[..., 3]\n    bboxes2_area = bboxes2[..., 2] * bboxes2[..., 3]\n    bboxes1_coor = tf.concat(\n        [\n            bboxes1[..., :2] - bboxes1[..., 2:] * 0.5,\n            bboxes1[..., :2] + bboxes1[..., 2:] * 0.5,\n        ],\n        axis=-1,\n    )",
+        "detail": "Case of  Study.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "bbox_ciou",
+        "kind": 2,
+        "importPath": "Case of  Study.core.utils",
+        "description": "Case of  Study.core.utils",
+        "peekOfCode": "def bbox_ciou(bboxes1, bboxes2):\n    bboxes1_area = bboxes1[..., 2] * bboxes1[..., 3]\n    bboxes2_area = bboxes2[..., 2] * bboxes2[..., 3]\n    bboxes1_coor = tf.concat(\n        [\n            bboxes1[..., :2] - bboxes1[..., 2:] * 0.5,\n            bboxes1[..., :2] + bboxes1[..., 2:] * 0.5,\n        ],\n        axis=-1,\n    )",
+        "detail": "Case of  Study.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "nms",
+        "kind": 2,
+        "importPath": "Case of  Study.core.utils",
+        "description": "Case of  Study.core.utils",
+        "peekOfCode": "def nms(bboxes, iou_threshold, sigma=0.3, method='nms'):\n    classes_in_img = list(set(bboxes[:, 5]))\n    best_bboxes = []\n    for cls in classes_in_img:\n        cls_mask = (bboxes[:, 5] == cls)\n        cls_bboxes = bboxes[cls_mask]\n        while len(cls_bboxes) > 0:\n            max_ind = np.argmax(cls_bboxes[:, 4])\n            best_bbox = cls_bboxes[max_ind]\n            best_bboxes.append(best_bbox)",
+        "detail": "Case of  Study.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "freeze_all",
+        "kind": 2,
+        "importPath": "Case of  Study.core.utils",
+        "description": "Case of  Study.core.utils",
+        "peekOfCode": "def freeze_all(model, frozen=True):\n    model.trainable = not frozen\n    if isinstance(model, tf.keras.Model):\n        for l in model.layers:\n            freeze_all(l, frozen)\ndef unfreeze_all(model, frozen=False):\n    model.trainable = not frozen\n    if isinstance(model, tf.keras.Model):\n        for l in model.layers:\n            unfreeze_all(l, frozen)",
+        "detail": "Case of  Study.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "unfreeze_all",
+        "kind": 2,
+        "importPath": "Case of  Study.core.utils",
+        "description": "Case of  Study.core.utils",
+        "peekOfCode": "def unfreeze_all(model, frozen=False):\n    model.trainable = not frozen\n    if isinstance(model, tf.keras.Model):\n        for l in model.layers:\n            unfreeze_all(l, frozen)",
+        "detail": "Case of  Study.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "pytesseract.pytesseract.tesseract_cmd",
+        "kind": 5,
+        "importPath": "Case of  Study.core.utils",
+        "description": "Case of  Study.core.utils",
+        "peekOfCode": "pytesseract.pytesseract.tesseract_cmd = r'C:\\Program Files\\Tesseract-OCR\\tesseract'\ndef Number_plate_detection(img, coords):\n    xmin, ymin, xmax, ymax = coords\n    box = img[int(ymin)-5:int(ymax)+5, int(xmin)-5:int(xmax)+5]\n    gray = cv2.cvtColor(box, cv2.COLOR_RGB2GRAY)\n    gray = cv2.resize(gray, None, fx = 3, fy = 3, interpolation = cv2.INTER_CUBIC)\n    blur = cv2.GaussianBlur(gray, (5,5), 0)\n    ret, thresh = cv2.threshold(gray, 0, 255, cv2.THRESH_OTSU | cv2.THRESH_BINARY_INV)\n    rect_kern = cv2.getStructuringElement(cv2.MORPH_RECT, (5,5))\n    dilation = cv2.dilate(thresh, rect_kern, iterations = 1)",
+        "detail": "Case of  Study.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "YOLO",
+        "kind": 2,
+        "importPath": "Case of  Study.core.yolov4",
+        "description": "Case of  Study.core.yolov4",
+        "peekOfCode": "def YOLO(input_layer, NUM_CLASS, model='yolov4', is_tiny=False):\n    if is_tiny:\n        if model == 'yolov4':\n            return YOLOv4_tiny(input_layer, NUM_CLASS)\n        elif model == 'yolov3':\n            return YOLOv3_tiny(input_layer, NUM_CLASS)\n    else:\n        if model == 'yolov4':\n            return YOLOv4(input_layer, NUM_CLASS)\n        elif model == 'yolov3':",
+        "detail": "Case of  Study.core.yolov4",
+        "documentation": {}
+    },
+    {
+        "label": "YOLOv3",
+        "kind": 2,
+        "importPath": "Case of  Study.core.yolov4",
+        "description": "Case of  Study.core.yolov4",
+        "peekOfCode": "def YOLOv3(input_layer, NUM_CLASS):\n    route_1, route_2, conv = backbone.darknet53(input_layer)\n    conv = common.convolutional(conv, (1, 1, 1024, 512))\n    conv = common.convolutional(conv, (3, 3, 512, 1024))\n    conv = common.convolutional(conv, (1, 1, 1024, 512))\n    conv = common.convolutional(conv, (3, 3, 512, 1024))\n    conv = common.convolutional(conv, (1, 1, 1024, 512))\n    conv_lobj_branch = common.convolutional(conv, (3, 3, 512, 1024))\n    conv_lbbox = common.convolutional(conv_lobj_branch, (1, 1, 1024, 3 * (NUM_CLASS + 5)), activate=False, bn=False)\n    conv = common.convolutional(conv, (1, 1, 512, 256))",
+        "detail": "Case of  Study.core.yolov4",
+        "documentation": {}
+    },
+    {
+        "label": "YOLOv4",
+        "kind": 2,
+        "importPath": "Case of  Study.core.yolov4",
+        "description": "Case of  Study.core.yolov4",
+        "peekOfCode": "def YOLOv4(input_layer, NUM_CLASS):\n    route_1, route_2, conv = backbone.cspdarknet53(input_layer)\n    route = conv\n    conv = common.convolutional(conv, (1, 1, 512, 256))\n    conv = common.upsample(conv)\n    route_2 = common.convolutional(route_2, (1, 1, 512, 256))\n    conv = tf.concat([route_2, conv], axis=-1)\n    conv = common.convolutional(conv, (1, 1, 512, 256))\n    conv = common.convolutional(conv, (3, 3, 256, 512))\n    conv = common.convolutional(conv, (1, 1, 512, 256))",
+        "detail": "Case of  Study.core.yolov4",
+        "documentation": {}
+    },
+    {
+        "label": "YOLOv4_tiny",
+        "kind": 2,
+        "importPath": "Case of  Study.core.yolov4",
+        "description": "Case of  Study.core.yolov4",
+        "peekOfCode": "def YOLOv4_tiny(input_layer, NUM_CLASS):\n    route_1, conv = backbone.cspdarknet53_tiny(input_layer)\n    conv = common.convolutional(conv, (1, 1, 512, 256))\n    conv_lobj_branch = common.convolutional(conv, (3, 3, 256, 512))\n    conv_lbbox = common.convolutional(conv_lobj_branch, (1, 1, 512, 3 * (NUM_CLASS + 5)), activate=False, bn=False)\n    conv = common.convolutional(conv, (1, 1, 256, 128))\n    conv = common.upsample(conv)\n    conv = tf.concat([conv, route_1], axis=-1)\n    conv_mobj_branch = common.convolutional(conv, (3, 3, 128, 256))\n    conv_mbbox = common.convolutional(conv_mobj_branch, (1, 1, 256, 3 * (NUM_CLASS + 5)), activate=False, bn=False)",
+        "detail": "Case of  Study.core.yolov4",
+        "documentation": {}
+    },
+    {
+        "label": "YOLOv3_tiny",
+        "kind": 2,
+        "importPath": "Case of  Study.core.yolov4",
+        "description": "Case of  Study.core.yolov4",
+        "peekOfCode": "def YOLOv3_tiny(input_layer, NUM_CLASS):\n    route_1, conv = backbone.darknet53_tiny(input_layer)\n    conv = common.convolutional(conv, (1, 1, 1024, 256))\n    conv_lobj_branch = common.convolutional(conv, (3, 3, 256, 512))\n    conv_lbbox = common.convolutional(conv_lobj_branch, (1, 1, 512, 3 * (NUM_CLASS + 5)), activate=False, bn=False)\n    conv = common.convolutional(conv, (1, 1, 256, 128))\n    conv = common.upsample(conv)\n    conv = tf.concat([conv, route_1], axis=-1)\n    conv_mobj_branch = common.convolutional(conv, (3, 3, 128, 256))\n    conv_mbbox = common.convolutional(conv_mobj_branch, (1, 1, 256, 3 * (NUM_CLASS + 5)), activate=False, bn=False)",
+        "detail": "Case of  Study.core.yolov4",
+        "documentation": {}
+    },
+    {
+        "label": "decode",
+        "kind": 2,
+        "importPath": "Case of  Study.core.yolov4",
+        "description": "Case of  Study.core.yolov4",
+        "peekOfCode": "def decode(conv_output, output_size, NUM_CLASS, STRIDES, ANCHORS, i, XYSCALE=[1,1,1], FRAMEWORK='tf'):\n    if FRAMEWORK == 'trt':\n        return decode_trt(conv_output, output_size, NUM_CLASS, STRIDES, ANCHORS, i=i, XYSCALE=XYSCALE)\n    elif FRAMEWORK == 'tflite':\n        return decode_tflite(conv_output, output_size, NUM_CLASS, STRIDES, ANCHORS, i=i, XYSCALE=XYSCALE)\n    else:\n        return decode_tf(conv_output, output_size, NUM_CLASS, STRIDES, ANCHORS, i=i, XYSCALE=XYSCALE)\ndef decode_train(conv_output, output_size, NUM_CLASS, STRIDES, ANCHORS, i=0, XYSCALE=[1, 1, 1]):\n    conv_output = tf.reshape(conv_output,\n                             (tf.shape(conv_output)[0], output_size, output_size, 3, 5 + NUM_CLASS))",
+        "detail": "Case of  Study.core.yolov4",
+        "documentation": {}
+    },
+    {
+        "label": "decode_train",
+        "kind": 2,
+        "importPath": "Case of  Study.core.yolov4",
+        "description": "Case of  Study.core.yolov4",
+        "peekOfCode": "def decode_train(conv_output, output_size, NUM_CLASS, STRIDES, ANCHORS, i=0, XYSCALE=[1, 1, 1]):\n    conv_output = tf.reshape(conv_output,\n                             (tf.shape(conv_output)[0], output_size, output_size, 3, 5 + NUM_CLASS))\n    conv_raw_dxdy, conv_raw_dwdh, conv_raw_conf, conv_raw_prob = tf.split(conv_output, (2, 2, 1, NUM_CLASS),\n                                                                          axis=-1)\n    xy_grid = tf.meshgrid(tf.range(output_size), tf.range(output_size))\n    xy_grid = tf.expand_dims(tf.stack(xy_grid, axis=-1), axis=2)  # [gx, gy, 1, 2]\n    xy_grid = tf.tile(tf.expand_dims(xy_grid, axis=0), [tf.shape(conv_output)[0], 1, 1, 3, 1])\n    xy_grid = tf.cast(xy_grid, tf.float32)\n    pred_xy = ((tf.sigmoid(conv_raw_dxdy) * XYSCALE[i]) - 0.5 * (XYSCALE[i] - 1) + xy_grid) * \\",
+        "detail": "Case of  Study.core.yolov4",
+        "documentation": {}
+    },
+    {
+        "label": "decode_tf",
+        "kind": 2,
+        "importPath": "Case of  Study.core.yolov4",
+        "description": "Case of  Study.core.yolov4",
+        "peekOfCode": "def decode_tf(conv_output, output_size, NUM_CLASS, STRIDES, ANCHORS, i=0, XYSCALE=[1, 1, 1]):\n    batch_size = tf.shape(conv_output)[0]\n    conv_output = tf.reshape(conv_output,\n                             (batch_size, output_size, output_size, 3, 5 + NUM_CLASS))\n    conv_raw_dxdy, conv_raw_dwdh, conv_raw_conf, conv_raw_prob = tf.split(conv_output, (2, 2, 1, NUM_CLASS),\n                                                                          axis=-1)\n    xy_grid = tf.meshgrid(tf.range(output_size), tf.range(output_size))\n    xy_grid = tf.expand_dims(tf.stack(xy_grid, axis=-1), axis=2)  # [gx, gy, 1, 2]\n    xy_grid = tf.tile(tf.expand_dims(xy_grid, axis=0), [batch_size, 1, 1, 3, 1])\n    xy_grid = tf.cast(xy_grid, tf.float32)",
+        "detail": "Case of  Study.core.yolov4",
+        "documentation": {}
+    },
+    {
+        "label": "decode_tflite",
+        "kind": 2,
+        "importPath": "Case of  Study.core.yolov4",
+        "description": "Case of  Study.core.yolov4",
+        "peekOfCode": "def decode_tflite(conv_output, output_size, NUM_CLASS, STRIDES, ANCHORS, i=0, XYSCALE=[1,1,1]):\n    conv_raw_dxdy_0, conv_raw_dwdh_0, conv_raw_score_0,\\\n    conv_raw_dxdy_1, conv_raw_dwdh_1, conv_raw_score_1,\\\n    conv_raw_dxdy_2, conv_raw_dwdh_2, conv_raw_score_2 = tf.split(conv_output, (2, 2, 1+NUM_CLASS, 2, 2, 1+NUM_CLASS,\n                                                                                2, 2, 1+NUM_CLASS), axis=-1)\n    conv_raw_score = [conv_raw_score_0, conv_raw_score_1, conv_raw_score_2]\n    for idx, score in enumerate(conv_raw_score):\n        score = tf.sigmoid(score)\n        score = score[:, :, :, 0:1] * score[:, :, :, 1:]\n        conv_raw_score[idx] = tf.reshape(score, (1, -1, NUM_CLASS))",
+        "detail": "Case of  Study.core.yolov4",
+        "documentation": {}
+    },
+    {
+        "label": "decode_trt",
+        "kind": 2,
+        "importPath": "Case of  Study.core.yolov4",
+        "description": "Case of  Study.core.yolov4",
+        "peekOfCode": "def decode_trt(conv_output, output_size, NUM_CLASS, STRIDES, ANCHORS, i=0, XYSCALE=[1,1,1]):\n    batch_size = tf.shape(conv_output)[0]\n    conv_output = tf.reshape(conv_output, (batch_size, output_size, output_size, 3, 5 + NUM_CLASS))\n    conv_raw_dxdy, conv_raw_dwdh, conv_raw_conf, conv_raw_prob = tf.split(conv_output, (2, 2, 1, NUM_CLASS), axis=-1)\n    xy_grid = tf.meshgrid(tf.range(output_size), tf.range(output_size))\n    xy_grid = tf.expand_dims(tf.stack(xy_grid, axis=-1), axis=2)  # [gx, gy, 1, 2]\n    xy_grid = tf.tile(tf.expand_dims(xy_grid, axis=0), [batch_size, 1, 1, 3, 1])\n    xy_grid = tf.cast(xy_grid, tf.float32)\n    pred_xy = (tf.reshape(tf.sigmoid(conv_raw_dxdy), (-1, 2)) * XYSCALE[i] - 0.5 * (XYSCALE[i] - 1) + tf.reshape(xy_grid, (-1, 2))) * STRIDES[i]\n    pred_xy = tf.reshape(pred_xy, (batch_size, output_size, output_size, 3, 2))",
+        "detail": "Case of  Study.core.yolov4",
+        "documentation": {}
+    },
+    {
+        "label": "filter_boxes",
+        "kind": 2,
+        "importPath": "Case of  Study.core.yolov4",
+        "description": "Case of  Study.core.yolov4",
+        "peekOfCode": "def filter_boxes(box_xywh, scores, score_threshold=0.4, input_shape = tf.constant([416,416])):\n    scores_max = tf.math.reduce_max(scores, axis=-1)\n    mask = scores_max >= score_threshold\n    class_boxes = tf.boolean_mask(box_xywh, mask)\n    pred_conf = tf.boolean_mask(scores, mask)\n    class_boxes = tf.reshape(class_boxes, [tf.shape(scores)[0], -1, tf.shape(class_boxes)[-1]])\n    pred_conf = tf.reshape(pred_conf, [tf.shape(scores)[0], -1, tf.shape(pred_conf)[-1]])\n    box_xy, box_wh = tf.split(class_boxes, (2, 2), axis=-1)\n    input_shape = tf.cast(input_shape, dtype=tf.float32)\n    box_yx = box_xy[..., ::-1]",
+        "detail": "Case of  Study.core.yolov4",
+        "documentation": {}
+    },
+    {
+        "label": "compute_loss",
+        "kind": 2,
+        "importPath": "Case of  Study.core.yolov4",
+        "description": "Case of  Study.core.yolov4",
+        "peekOfCode": "def compute_loss(pred, conv, label, bboxes, STRIDES, NUM_CLASS, IOU_LOSS_THRESH, i=0):\n    conv_shape  = tf.shape(conv)\n    batch_size  = conv_shape[0]\n    output_size = conv_shape[1]\n    input_size  = STRIDES[i] * output_size\n    conv = tf.reshape(conv, (batch_size, output_size, output_size, 3, 5 + NUM_CLASS))\n    conv_raw_conf = conv[:, :, :, :, 4:5]\n    conv_raw_prob = conv[:, :, :, :, 5:]\n    pred_xywh     = pred[:, :, :, :, 0:4]\n    pred_conf     = pred[:, :, :, :, 4:5]",
+        "detail": "Case of  Study.core.yolov4",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Case of  Study.mtech",
+        "description": "Case of  Study.mtech",
+        "peekOfCode": "def main(_argv):\n    STRIDES, ANCHORS, NUM_CLASS, XYSCALE = utils.load_config(FLAGS)\n    input_image_size = 416\n    image_input_location = FLAGS.images\n    saved_model_loaded = tf.saved_model.load('./weights/custom-416', tags=[tag_constants.SERVING])\n    logging.info('weights loaded')\n    logging.info('classes loaded')\n    for count, image_location in enumerate(image_input_location, 1):\n        original_image = cv2.imread(image_location)\n        original_image = cv2.cvtColor(original_image, cv2.COLOR_BGR2RGB)",
+        "detail": "Case of  Study.mtech",
+        "documentation": {}
+    },
+    {
+        "label": "ocr",
+        "kind": 2,
+        "importPath": "Case of  Study.mtech",
+        "description": "Case of  Study.mtech",
+        "peekOfCode": "def ocr(img, data):\n    boxes, scores, classes, num_objects = data\n    class_names = read_class_names(cfg.YOLO.CLASSES)\n    for i in range(num_objects):\n        class_index = int(classes[i])\n        class_name = class_names[class_index]\n        xmin, ymin, xmax, ymax = boxes[i]\n        box = img[int(ymin)-5:int(ymax)+5, int(xmin)-5:int(xmax)+5]\n        gray = cv2.cvtColor(box, cv2.COLOR_RGB2GRAY)\n        thresh = cv2.threshold(gray, 0, 255, cv2.THRESH_BINARY | cv2.THRESH_OTSU)[1]",
+        "detail": "Case of  Study.mtech",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ['TF_CPP_MIN_LOG_LEVEL']",
+        "kind": 5,
+        "importPath": "Case of  Study.mtech",
+        "description": "Case of  Study.mtech",
+        "peekOfCode": "os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'\nimport tensorflow as tf\nimport core.utils as utils\nimport pytesseract\nfrom core.utils import read_class_names\nfrom core.config import cfg\nfrom PIL import Image\nfrom absl.flags import FLAGS\nfrom absl import app, flags, logging\nfrom core.yolov4 import filter_boxes",
+        "detail": "Case of  Study.mtech",
+        "documentation": {}
+    },
+    {
+        "label": "darknet53",
+        "kind": 2,
+        "importPath": "Main Part.core.backbone",
+        "description": "Main Part.core.backbone",
+        "peekOfCode": "def darknet53(input_data):\n    input_data = common.convolutional(input_data, (3, 3,  3,  32))\n    input_data = common.convolutional(input_data, (3, 3, 32,  64), downsample=True)\n    for i in range(1):\n        input_data = common.residual_block(input_data,  64,  32, 64)\n    input_data = common.convolutional(input_data, (3, 3,  64, 128), downsample=True)\n    for i in range(2):\n        input_data = common.residual_block(input_data, 128,  64, 128)\n    input_data = common.convolutional(input_data, (3, 3, 128, 256), downsample=True)\n    for i in range(8):",
+        "detail": "Main Part.core.backbone",
+        "documentation": {}
+    },
+    {
+        "label": "cspdarknet53",
+        "kind": 2,
+        "importPath": "Main Part.core.backbone",
+        "description": "Main Part.core.backbone",
+        "peekOfCode": "def cspdarknet53(input_data):\n    input_data = common.convolutional(input_data, (3, 3,  3,  32), activate_type=\"mish\")\n    input_data = common.convolutional(input_data, (3, 3, 32,  64), downsample=True, activate_type=\"mish\")\n    route = input_data\n    route = common.convolutional(route, (1, 1, 64, 64), activate_type=\"mish\")\n    input_data = common.convolutional(input_data, (1, 1, 64, 64), activate_type=\"mish\")\n    for i in range(1):\n        input_data = common.residual_block(input_data,  64,  32, 64, activate_type=\"mish\")\n    input_data = common.convolutional(input_data, (1, 1, 64, 64), activate_type=\"mish\")\n    input_data = tf.concat([input_data, route], axis=-1)",
+        "detail": "Main Part.core.backbone",
+        "documentation": {}
+    },
+    {
+        "label": "cspdarknet53_tiny",
+        "kind": 2,
+        "importPath": "Main Part.core.backbone",
+        "description": "Main Part.core.backbone",
+        "peekOfCode": "def cspdarknet53_tiny(input_data):\n    input_data = common.convolutional(input_data, (3, 3, 3, 32), downsample=True)\n    input_data = common.convolutional(input_data, (3, 3, 32, 64), downsample=True)\n    input_data = common.convolutional(input_data, (3, 3, 64, 64))\n    route = input_data\n    input_data = common.route_group(input_data, 2, 1)\n    input_data = common.convolutional(input_data, (3, 3, 32, 32))\n    route_1 = input_data\n    input_data = common.convolutional(input_data, (3, 3, 32, 32))\n    input_data = tf.concat([input_data, route_1], axis=-1)",
+        "detail": "Main Part.core.backbone",
+        "documentation": {}
+    },
+    {
+        "label": "darknet53_tiny",
+        "kind": 2,
+        "importPath": "Main Part.core.backbone",
+        "description": "Main Part.core.backbone",
+        "peekOfCode": "def darknet53_tiny(input_data):\n    input_data = common.convolutional(input_data, (3, 3, 3, 16))\n    input_data = tf.keras.layers.MaxPool2D(2, 2, 'same')(input_data)\n    input_data = common.convolutional(input_data, (3, 3, 16, 32))\n    input_data = tf.keras.layers.MaxPool2D(2, 2, 'same')(input_data)\n    input_data = common.convolutional(input_data, (3, 3, 32, 64))\n    input_data = tf.keras.layers.MaxPool2D(2, 2, 'same')(input_data)\n    input_data = common.convolutional(input_data, (3, 3, 64, 128))\n    input_data = tf.keras.layers.MaxPool2D(2, 2, 'same')(input_data)\n    input_data = common.convolutional(input_data, (3, 3, 128, 256))",
+        "detail": "Main Part.core.backbone",
+        "documentation": {}
+    },
+    {
+        "label": "BatchNormalization",
+        "kind": 6,
+        "importPath": "Main Part.core.common",
+        "description": "Main Part.core.common",
+        "peekOfCode": "class BatchNormalization(tf.keras.layers.BatchNormalization):\n    def call(self, x, training=False):\n        if not training:\n            training = tf.constant(False)\n        training = tf.logical_and(training, self.trainable)\n        return super().call(x, training)\ndef convolutional(input_layer, filters_shape, downsample=False, activate=True, bn=True, activate_type='leaky'):\n    if downsample:\n        input_layer = tf.keras.layers.ZeroPadding2D(((1, 0), (1, 0)))(input_layer)\n        padding = 'valid'",
+        "detail": "Main Part.core.common",
+        "documentation": {}
+    },
+    {
+        "label": "convolutional",
+        "kind": 2,
+        "importPath": "Main Part.core.common",
+        "description": "Main Part.core.common",
+        "peekOfCode": "def convolutional(input_layer, filters_shape, downsample=False, activate=True, bn=True, activate_type='leaky'):\n    if downsample:\n        input_layer = tf.keras.layers.ZeroPadding2D(((1, 0), (1, 0)))(input_layer)\n        padding = 'valid'\n        strides = 2\n    else:\n        strides = 1\n        padding = 'same'\n    conv = tf.keras.layers.Conv2D(filters=filters_shape[-1], kernel_size = filters_shape[0], strides=strides, padding=padding,\n                                  use_bias=not bn, kernel_regularizer=tf.keras.regularizers.l2(0.0005),",
+        "detail": "Main Part.core.common",
+        "documentation": {}
+    },
+    {
+        "label": "mish",
+        "kind": 2,
+        "importPath": "Main Part.core.common",
+        "description": "Main Part.core.common",
+        "peekOfCode": "def mish(x):\n    return x * tf.math.tanh(tf.math.softplus(x))\ndef residual_block(input_layer, input_channel, filter_num1, filter_num2, activate_type='leaky'):\n    short_cut = input_layer\n    conv = convolutional(input_layer, filters_shape=(1, 1, input_channel, filter_num1), activate_type=activate_type)\n    conv = convolutional(conv       , filters_shape=(3, 3, filter_num1,   filter_num2), activate_type=activate_type)\n    residual_output = short_cut + conv\n    return residual_output\ndef route_group(input_layer, groups, group_id):\n    convs = tf.split(input_layer, num_or_size_splits=groups, axis=-1)",
+        "detail": "Main Part.core.common",
+        "documentation": {}
+    },
+    {
+        "label": "residual_block",
+        "kind": 2,
+        "importPath": "Main Part.core.common",
+        "description": "Main Part.core.common",
+        "peekOfCode": "def residual_block(input_layer, input_channel, filter_num1, filter_num2, activate_type='leaky'):\n    short_cut = input_layer\n    conv = convolutional(input_layer, filters_shape=(1, 1, input_channel, filter_num1), activate_type=activate_type)\n    conv = convolutional(conv       , filters_shape=(3, 3, filter_num1,   filter_num2), activate_type=activate_type)\n    residual_output = short_cut + conv\n    return residual_output\ndef route_group(input_layer, groups, group_id):\n    convs = tf.split(input_layer, num_or_size_splits=groups, axis=-1)\n    return convs[group_id]\ndef upsample(input_layer):",
+        "detail": "Main Part.core.common",
+        "documentation": {}
+    },
+    {
+        "label": "route_group",
+        "kind": 2,
+        "importPath": "Main Part.core.common",
+        "description": "Main Part.core.common",
+        "peekOfCode": "def route_group(input_layer, groups, group_id):\n    convs = tf.split(input_layer, num_or_size_splits=groups, axis=-1)\n    return convs[group_id]\ndef upsample(input_layer):\n    return tf.image.resize(input_layer, (input_layer.shape[1] * 2, input_layer.shape[2] * 2), method='bilinear')",
+        "detail": "Main Part.core.common",
+        "documentation": {}
+    },
+    {
+        "label": "upsample",
+        "kind": 2,
+        "importPath": "Main Part.core.common",
+        "description": "Main Part.core.common",
+        "peekOfCode": "def upsample(input_layer):\n    return tf.image.resize(input_layer, (input_layer.shape[1] * 2, input_layer.shape[2] * 2), method='bilinear')",
+        "detail": "Main Part.core.common",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "kind": 6,
+        "importPath": "Main Part.core.dataset",
+        "description": "Main Part.core.dataset",
+        "peekOfCode": "class Dataset(object):\n    \"\"\"implement Dataset here\"\"\"\n    def __init__(self, FLAGS, is_training: bool, dataset_type: str = \"converted_coco\"):\n        self.tiny = FLAGS.tiny\n        self.strides, self.anchors, NUM_CLASS, XYSCALE = utils.load_config(FLAGS)\n        self.dataset_type = dataset_type\n        self.annot_path = (\n            cfg.TRAIN.ANNOT_PATH if is_training else cfg.TEST.ANNOT_PATH\n        )\n        self.input_sizes = (",
+        "detail": "Main Part.core.dataset",
+        "documentation": {}
+    },
+    {
+        "label": "load_weights",
+        "kind": 2,
+        "importPath": "Main Part.core.utils",
+        "description": "Main Part.core.utils",
+        "peekOfCode": "def load_weights(model, weights_file, model_name='yolov4', is_tiny=False):\n    if is_tiny:\n        if model_name == 'yolov3':\n            layer_size = 13\n            output_pos = [9, 12]\n        else:\n            layer_size = 21\n            output_pos = [17, 20]\n    else:\n        if model_name == 'yolov3':",
+        "detail": "Main Part.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_config",
+        "kind": 2,
+        "importPath": "Main Part.core.utils",
+        "description": "Main Part.core.utils",
+        "peekOfCode": "def load_config(FLAGS):\n    if FLAGS.tiny:\n        STRIDES = np.array(cfg.YOLO.STRIDES_TINY)\n        ANCHORS = get_anchors(cfg.YOLO.ANCHORS_TINY, FLAGS.tiny)\n        XYSCALE = cfg.YOLO.XYSCALE_TINY if FLAGS.model == 'yolov4' else [1, 1]\n    else:\n        STRIDES = np.array(cfg.YOLO.STRIDES)\n        if FLAGS.model == 'yolov4':\n            ANCHORS = get_anchors(cfg.YOLO.ANCHORS, FLAGS.tiny)\n        elif FLAGS.model == 'yolov3':",
+        "detail": "Main Part.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_anchors",
+        "kind": 2,
+        "importPath": "Main Part.core.utils",
+        "description": "Main Part.core.utils",
+        "peekOfCode": "def get_anchors(anchors_path, tiny=False):\n    anchors = np.array(anchors_path)\n    if tiny:\n        return anchors.reshape(2, 3, 2)\n    else:\n        return anchors.reshape(3, 3, 2)\ndef load_freeze_layer(model='yolov4', tiny=False):\n    if tiny:\n        if model == 'yolov3':\n            freeze_layouts = ['conv2d_9', 'conv2d_12']",
+        "detail": "Main Part.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_freeze_layer",
+        "kind": 2,
+        "importPath": "Main Part.core.utils",
+        "description": "Main Part.core.utils",
+        "peekOfCode": "def load_freeze_layer(model='yolov4', tiny=False):\n    if tiny:\n        if model == 'yolov3':\n            freeze_layouts = ['conv2d_9', 'conv2d_12']\n        else:\n            freeze_layouts = ['conv2d_17', 'conv2d_20']\n    else:\n        if model == 'yolov3':\n            freeze_layouts = ['conv2d_58', 'conv2d_66', 'conv2d_74']\n        else:",
+        "detail": "Main Part.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "read_class_names",
+        "kind": 2,
+        "importPath": "Main Part.core.utils",
+        "description": "Main Part.core.utils",
+        "peekOfCode": "def read_class_names(class_file_name):\n    names = {}\n    with open(class_file_name, 'r') as data:\n        for ID, name in enumerate(data):\n            names[ID] = name.strip('\\n')\n    return names\ndef image_preprocess(image, target_size, gt_boxes=None):\n    ih, iw    = target_size\n    h,  w, _  = image.shape\n    scale = min(iw/w, ih/h)",
+        "detail": "Main Part.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "image_preprocess",
+        "kind": 2,
+        "importPath": "Main Part.core.utils",
+        "description": "Main Part.core.utils",
+        "peekOfCode": "def image_preprocess(image, target_size, gt_boxes=None):\n    ih, iw    = target_size\n    h,  w, _  = image.shape\n    scale = min(iw/w, ih/h)\n    nw, nh  = int(scale * w), int(scale * h)\n    image_resized = cv2.resize(image, (nw, nh))\n    image_paded = np.full(shape=[ih, iw, 3], fill_value=128.0)\n    dw, dh = (iw - nw) // 2, (ih-nh) // 2\n    image_paded[dh:nh+dh, dw:nw+dw, :] = image_resized\n    image_paded = image_paded / 255.",
+        "detail": "Main Part.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "format_boxes",
+        "kind": 2,
+        "importPath": "Main Part.core.utils",
+        "description": "Main Part.core.utils",
+        "peekOfCode": "def format_boxes(bboxes, image_height, image_width):\n    for box in bboxes:\n        ymin = int(box[0] * image_height)\n        xmin = int(box[1] * image_width)\n        ymax = int(box[2] * image_height)\n        xmax = int(box[3] * image_width)\n        box[0], box[1], box[2], box[3] = xmin, ymin, xmax, ymax\n    return bboxes\ndef draw_bbox(image, bboxes, info = False, counted_classes = None, show_label=True, classes=read_class_names(cfg.YOLO.CLASSES)):\n    num_classes = len(classes)",
+        "detail": "Main Part.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "draw_bbox",
+        "kind": 2,
+        "importPath": "Main Part.core.utils",
+        "description": "Main Part.core.utils",
+        "peekOfCode": "def draw_bbox(image, bboxes, info = False, counted_classes = None, show_label=True, classes=read_class_names(cfg.YOLO.CLASSES)):\n    num_classes = len(classes)\n    image_h, image_w, _ = image.shape\n    hsv_tuples = [(1.0 * x / num_classes, 1., 1.) for x in range(num_classes)]\n    colors = list(map(lambda x: colorsys.hsv_to_rgb(*x), hsv_tuples))\n    colors = list(map(lambda x: (int(x[0] * 255), int(x[1] * 255), int(x[2] * 255)), colors))\n    random.seed(0)\n    random.shuffle(colors)\n    random.seed(None)\n    out_boxes, out_scores, out_classes, num_boxes = bboxes",
+        "detail": "Main Part.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "bbox_iou",
+        "kind": 2,
+        "importPath": "Main Part.core.utils",
+        "description": "Main Part.core.utils",
+        "peekOfCode": "def bbox_iou(bboxes1, bboxes2):\n    bboxes1_area = bboxes1[..., 2] * bboxes1[..., 3]\n    bboxes2_area = bboxes2[..., 2] * bboxes2[..., 3]\n    bboxes1_coor = tf.concat(\n        [\n            bboxes1[..., :2] - bboxes1[..., 2:] * 0.5,\n            bboxes1[..., :2] + bboxes1[..., 2:] * 0.5,\n        ],\n        axis=-1,\n    )",
+        "detail": "Main Part.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "bbox_giou",
+        "kind": 2,
+        "importPath": "Main Part.core.utils",
+        "description": "Main Part.core.utils",
+        "peekOfCode": "def bbox_giou(bboxes1, bboxes2):\n    bboxes1_area = bboxes1[..., 2] * bboxes1[..., 3]\n    bboxes2_area = bboxes2[..., 2] * bboxes2[..., 3]\n    bboxes1_coor = tf.concat(\n        [\n            bboxes1[..., :2] - bboxes1[..., 2:] * 0.5,\n            bboxes1[..., :2] + bboxes1[..., 2:] * 0.5,\n        ],\n        axis=-1,\n    )",
+        "detail": "Main Part.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "bbox_ciou",
+        "kind": 2,
+        "importPath": "Main Part.core.utils",
+        "description": "Main Part.core.utils",
+        "peekOfCode": "def bbox_ciou(bboxes1, bboxes2):\n    bboxes1_area = bboxes1[..., 2] * bboxes1[..., 3]\n    bboxes2_area = bboxes2[..., 2] * bboxes2[..., 3]\n    bboxes1_coor = tf.concat(\n        [\n            bboxes1[..., :2] - bboxes1[..., 2:] * 0.5,\n            bboxes1[..., :2] + bboxes1[..., 2:] * 0.5,\n        ],\n        axis=-1,\n    )",
+        "detail": "Main Part.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "nms",
+        "kind": 2,
+        "importPath": "Main Part.core.utils",
+        "description": "Main Part.core.utils",
+        "peekOfCode": "def nms(bboxes, iou_threshold, sigma=0.3, method='nms'):\n    classes_in_img = list(set(bboxes[:, 5]))\n    best_bboxes = []\n    for cls in classes_in_img:\n        cls_mask = (bboxes[:, 5] == cls)\n        cls_bboxes = bboxes[cls_mask]\n        while len(cls_bboxes) > 0:\n            max_ind = np.argmax(cls_bboxes[:, 4])\n            best_bbox = cls_bboxes[max_ind]\n            best_bboxes.append(best_bbox)",
+        "detail": "Main Part.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "freeze_all",
+        "kind": 2,
+        "importPath": "Main Part.core.utils",
+        "description": "Main Part.core.utils",
+        "peekOfCode": "def freeze_all(model, frozen=True):\n    model.trainable = not frozen\n    if isinstance(model, tf.keras.Model):\n        for l in model.layers:\n            freeze_all(l, frozen)\ndef unfreeze_all(model, frozen=False):\n    model.trainable = not frozen\n    if isinstance(model, tf.keras.Model):\n        for l in model.layers:\n            unfreeze_all(l, frozen)",
+        "detail": "Main Part.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "unfreeze_all",
+        "kind": 2,
+        "importPath": "Main Part.core.utils",
+        "description": "Main Part.core.utils",
+        "peekOfCode": "def unfreeze_all(model, frozen=False):\n    model.trainable = not frozen\n    if isinstance(model, tf.keras.Model):\n        for l in model.layers:\n            unfreeze_all(l, frozen)",
+        "detail": "Main Part.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "YOLO",
+        "kind": 2,
+        "importPath": "Main Part.core.yolo",
+        "description": "Main Part.core.yolo",
+        "peekOfCode": "def YOLO(input_layer, NUM_CLASS, model='yolov4', is_tiny=False):\n    if is_tiny:\n        if model == 'yolov4':\n            return YOLOv4_tiny(input_layer, NUM_CLASS)\n        elif model == 'yolov3':\n            return YOLOv3_tiny(input_layer, NUM_CLASS)\n    else:\n        if model == 'yolov4':\n            return YOLOv4(input_layer, NUM_CLASS)\n        elif model == 'yolov3':",
+        "detail": "Main Part.core.yolo",
+        "documentation": {}
+    },
+    {
+        "label": "YOLOv3",
+        "kind": 2,
+        "importPath": "Main Part.core.yolo",
+        "description": "Main Part.core.yolo",
+        "peekOfCode": "def YOLOv3(input_layer, NUM_CLASS):\n    route_1, route_2, conv = backbone.darknet53(input_layer)\n    conv = common.convolutional(conv, (1, 1, 1024, 512))\n    conv = common.convolutional(conv, (3, 3, 512, 1024))\n    conv = common.convolutional(conv, (1, 1, 1024, 512))\n    conv = common.convolutional(conv, (3, 3, 512, 1024))\n    conv = common.convolutional(conv, (1, 1, 1024, 512))\n    conv_lobj_branch = common.convolutional(conv, (3, 3, 512, 1024))\n    conv_lbbox = common.convolutional(conv_lobj_branch, (1, 1, 1024, 3 * (NUM_CLASS + 5)), activate=False, bn=False)\n    conv = common.convolutional(conv, (1, 1, 512, 256))",
+        "detail": "Main Part.core.yolo",
+        "documentation": {}
+    },
+    {
+        "label": "YOLOv4",
+        "kind": 2,
+        "importPath": "Main Part.core.yolo",
+        "description": "Main Part.core.yolo",
+        "peekOfCode": "def YOLOv4(input_layer, NUM_CLASS):\n    route_1, route_2, conv = backbone.cspdarknet53(input_layer)\n    route = conv\n    conv = common.convolutional(conv, (1, 1, 512, 256))\n    conv = common.upsample(conv)\n    route_2 = common.convolutional(route_2, (1, 1, 512, 256))\n    conv = tf.concat([route_2, conv], axis=-1)\n    conv = common.convolutional(conv, (1, 1, 512, 256))\n    conv = common.convolutional(conv, (3, 3, 256, 512))\n    conv = common.convolutional(conv, (1, 1, 512, 256))",
+        "detail": "Main Part.core.yolo",
+        "documentation": {}
+    },
+    {
+        "label": "YOLOv4_tiny",
+        "kind": 2,
+        "importPath": "Main Part.core.yolo",
+        "description": "Main Part.core.yolo",
+        "peekOfCode": "def YOLOv4_tiny(input_layer, NUM_CLASS):\n    route_1, conv = backbone.cspdarknet53_tiny(input_layer)\n    conv = common.convolutional(conv, (1, 1, 512, 256))\n    conv_lobj_branch = common.convolutional(conv, (3, 3, 256, 512))\n    conv_lbbox = common.convolutional(conv_lobj_branch, (1, 1, 512, 3 * (NUM_CLASS + 5)), activate=False, bn=False)\n    conv = common.convolutional(conv, (1, 1, 256, 128))\n    conv = common.upsample(conv)\n    conv = tf.concat([conv, route_1], axis=-1)\n    conv_mobj_branch = common.convolutional(conv, (3, 3, 128, 256))\n    conv_mbbox = common.convolutional(conv_mobj_branch, (1, 1, 256, 3 * (NUM_CLASS + 5)), activate=False, bn=False)",
+        "detail": "Main Part.core.yolo",
+        "documentation": {}
+    },
+    {
+        "label": "YOLOv3_tiny",
+        "kind": 2,
+        "importPath": "Main Part.core.yolo",
+        "description": "Main Part.core.yolo",
+        "peekOfCode": "def YOLOv3_tiny(input_layer, NUM_CLASS):\n    route_1, conv = backbone.darknet53_tiny(input_layer)\n    conv = common.convolutional(conv, (1, 1, 1024, 256))\n    conv_lobj_branch = common.convolutional(conv, (3, 3, 256, 512))\n    conv_lbbox = common.convolutional(conv_lobj_branch, (1, 1, 512, 3 * (NUM_CLASS + 5)), activate=False, bn=False)\n    conv = common.convolutional(conv, (1, 1, 256, 128))\n    conv = common.upsample(conv)\n    conv = tf.concat([conv, route_1], axis=-1)\n    conv_mobj_branch = common.convolutional(conv, (3, 3, 128, 256))\n    conv_mbbox = common.convolutional(conv_mobj_branch, (1, 1, 256, 3 * (NUM_CLASS + 5)), activate=False, bn=False)",
+        "detail": "Main Part.core.yolo",
+        "documentation": {}
+    },
+    {
+        "label": "decode",
+        "kind": 2,
+        "importPath": "Main Part.core.yolo",
+        "description": "Main Part.core.yolo",
+        "peekOfCode": "def decode(conv_output, output_size, NUM_CLASS, STRIDES, ANCHORS, i, XYSCALE=[1,1,1], FRAMEWORK='tf'):\n    if FRAMEWORK == 'trt':\n        return decode_trt(conv_output, output_size, NUM_CLASS, STRIDES, ANCHORS, i=i, XYSCALE=XYSCALE)\n    elif FRAMEWORK == 'tflite':\n        return decode_tflite(conv_output, output_size, NUM_CLASS, STRIDES, ANCHORS, i=i, XYSCALE=XYSCALE)\n    else:\n        return decode_tf(conv_output, output_size, NUM_CLASS, STRIDES, ANCHORS, i=i, XYSCALE=XYSCALE)\ndef decode_train(conv_output, output_size, NUM_CLASS, STRIDES, ANCHORS, i=0, XYSCALE=[1, 1, 1]):\n    conv_output = tf.reshape(conv_output,\n                             (tf.shape(conv_output)[0], output_size, output_size, 3, 5 + NUM_CLASS))",
+        "detail": "Main Part.core.yolo",
+        "documentation": {}
+    },
+    {
+        "label": "decode_train",
+        "kind": 2,
+        "importPath": "Main Part.core.yolo",
+        "description": "Main Part.core.yolo",
+        "peekOfCode": "def decode_train(conv_output, output_size, NUM_CLASS, STRIDES, ANCHORS, i=0, XYSCALE=[1, 1, 1]):\n    conv_output = tf.reshape(conv_output,\n                             (tf.shape(conv_output)[0], output_size, output_size, 3, 5 + NUM_CLASS))\n    conv_raw_dxdy, conv_raw_dwdh, conv_raw_conf, conv_raw_prob = tf.split(conv_output, (2, 2, 1, NUM_CLASS),\n                                                                          axis=-1)\n    xy_grid = tf.meshgrid(tf.range(output_size), tf.range(output_size))\n    xy_grid = tf.expand_dims(tf.stack(xy_grid, axis=-1), axis=2) \n    xy_grid = tf.tile(tf.expand_dims(xy_grid, axis=0), [tf.shape(conv_output)[0], 1, 1, 3, 1])\n    xy_grid = tf.cast(xy_grid, tf.float32)\n    pred_xy = ((tf.sigmoid(conv_raw_dxdy) * XYSCALE[i]) - 0.5 * (XYSCALE[i] - 1) + xy_grid) * \\",
+        "detail": "Main Part.core.yolo",
+        "documentation": {}
+    },
+    {
+        "label": "decode_tf",
+        "kind": 2,
+        "importPath": "Main Part.core.yolo",
+        "description": "Main Part.core.yolo",
+        "peekOfCode": "def decode_tf(conv_output, output_size, NUM_CLASS, STRIDES, ANCHORS, i=0, XYSCALE=[1, 1, 1]):\n    batch_size = tf.shape(conv_output)[0]\n    conv_output = tf.reshape(conv_output,\n                             (batch_size, output_size, output_size, 3, 5 + NUM_CLASS))\n    conv_raw_dxdy, conv_raw_dwdh, conv_raw_conf, conv_raw_prob = tf.split(conv_output, (2, 2, 1, NUM_CLASS),\n                                                                          axis=-1)\n    xy_grid = tf.meshgrid(tf.range(output_size), tf.range(output_size))\n    xy_grid = tf.expand_dims(tf.stack(xy_grid, axis=-1), axis=2)  \n    xy_grid = tf.tile(tf.expand_dims(xy_grid, axis=0), [batch_size, 1, 1, 3, 1])\n    xy_grid = tf.cast(xy_grid, tf.float32)",
+        "detail": "Main Part.core.yolo",
+        "documentation": {}
+    },
+    {
+        "label": "decode_tflite",
+        "kind": 2,
+        "importPath": "Main Part.core.yolo",
+        "description": "Main Part.core.yolo",
+        "peekOfCode": "def decode_tflite(conv_output, output_size, NUM_CLASS, STRIDES, ANCHORS, i=0, XYSCALE=[1,1,1]):\n    conv_raw_dxdy_0, conv_raw_dwdh_0, conv_raw_score_0,\\\n    conv_raw_dxdy_1, conv_raw_dwdh_1, conv_raw_score_1,\\\n    conv_raw_dxdy_2, conv_raw_dwdh_2, conv_raw_score_2 = tf.split(conv_output, (2, 2, 1+NUM_CLASS, 2, 2, 1+NUM_CLASS,\n                                                                                2, 2, 1+NUM_CLASS), axis=-1)\n    conv_raw_score = [conv_raw_score_0, conv_raw_score_1, conv_raw_score_2]\n    for idx, score in enumerate(conv_raw_score):\n        score = tf.sigmoid(score)\n        score = score[:, :, :, 0:1] * score[:, :, :, 1:]\n        conv_raw_score[idx] = tf.reshape(score, (1, -1, NUM_CLASS))",
+        "detail": "Main Part.core.yolo",
+        "documentation": {}
+    },
+    {
+        "label": "decode_trt",
+        "kind": 2,
+        "importPath": "Main Part.core.yolo",
+        "description": "Main Part.core.yolo",
+        "peekOfCode": "def decode_trt(conv_output, output_size, NUM_CLASS, STRIDES, ANCHORS, i=0, XYSCALE=[1,1,1]):\n    batch_size = tf.shape(conv_output)[0]\n    conv_output = tf.reshape(conv_output, (batch_size, output_size, output_size, 3, 5 + NUM_CLASS))\n    conv_raw_dxdy, conv_raw_dwdh, conv_raw_conf, conv_raw_prob = tf.split(conv_output, (2, 2, 1, NUM_CLASS), axis=-1)\n    xy_grid = tf.meshgrid(tf.range(output_size), tf.range(output_size))\n    xy_grid = tf.expand_dims(tf.stack(xy_grid, axis=-1), axis=2)  \n    xy_grid = tf.tile(tf.expand_dims(xy_grid, axis=0), [batch_size, 1, 1, 3, 1])\n    xy_grid = tf.cast(xy_grid, tf.float32)\n    pred_xy = (tf.reshape(tf.sigmoid(conv_raw_dxdy), (-1, 2)) * XYSCALE[i] - 0.5 * (XYSCALE[i] - 1) + tf.reshape(xy_grid, (-1, 2))) * STRIDES[i]\n    pred_xy = tf.reshape(pred_xy, (batch_size, output_size, output_size, 3, 2))",
+        "detail": "Main Part.core.yolo",
+        "documentation": {}
+    },
+    {
+        "label": "filter_boxes",
+        "kind": 2,
+        "importPath": "Main Part.core.yolo",
+        "description": "Main Part.core.yolo",
+        "peekOfCode": "def filter_boxes(box_xywh, scores, score_threshold=0.4, input_shape = tf.constant([416,416])):\n    scores_max = tf.math.reduce_max(scores, axis=-1)\n    mask = scores_max >= score_threshold\n    class_boxes = tf.boolean_mask(box_xywh, mask)\n    pred_conf = tf.boolean_mask(scores, mask)\n    class_boxes = tf.reshape(class_boxes, [tf.shape(scores)[0], -1, tf.shape(class_boxes)[-1]])\n    pred_conf = tf.reshape(pred_conf, [tf.shape(scores)[0], -1, tf.shape(pred_conf)[-1]])\n    box_xy, box_wh = tf.split(class_boxes, (2, 2), axis=-1)\n    input_shape = tf.cast(input_shape, dtype=tf.float32)\n    box_yx = box_xy[..., ::-1]",
+        "detail": "Main Part.core.yolo",
+        "documentation": {}
+    },
+    {
+        "label": "compute_loss",
+        "kind": 2,
+        "importPath": "Main Part.core.yolo",
+        "description": "Main Part.core.yolo",
+        "peekOfCode": "def compute_loss(pred, conv, label, bboxes, STRIDES, NUM_CLASS, IOU_LOSS_THRESH, i=0):\n    conv_shape  = tf.shape(conv)\n    batch_size  = conv_shape[0]\n    output_size = conv_shape[1]\n    input_size  = STRIDES[i] * output_size\n    conv = tf.reshape(conv, (batch_size, output_size, output_size, 3, 5 + NUM_CLASS))\n    conv_raw_conf = conv[:, :, :, :, 4:5]\n    conv_raw_prob = conv[:, :, :, :, 5:]\n    pred_xywh     = pred[:, :, :, :, 0:4]\n    pred_conf     = pred[:, :, :, :, 4:5]",
+        "detail": "Main Part.core.yolo",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Main Part.yolo_project",
+        "description": "Main Part.yolo_project",
+        "peekOfCode": "def main(_argv):\n    STRIDES, ANCHORS, NUM_CLASS, XYSCALE = utils.load_config(FLAGS)\n    input_image_size = 416\n    video_location = FLAGS.video_location\n    saved_model_loaded = tf.saved_model.load(FLAGS.weights_location, tags=[tag_constants.SERVING])\n    infer = saved_model_loaded.signatures['serving_default']\n    logging.info('weights loaded')\n    logging.info('classes loaded')\n    try:\n        input_video = cv2.VideoCapture(int(video_location))",
+        "detail": "Main Part.yolo_project",
+        "documentation": {}
+    },
+    {
+        "label": "object_counting_function",
+        "kind": 2,
+        "importPath": "Main Part.yolo_project",
+        "description": "Main Part.yolo_project",
+        "peekOfCode": "def object_counting_function(data, by_class = True):\n    boxes, scores, classes, num_objects = data\n    object_countings = dict()\n    if by_class:\n        class_names = read_class_names(cfg.YOLO.CLASSES)\n        for i in range(num_objects):\n            class_index = int(classes[i])\n            class_name = class_names[class_index]\n            object_countings[class_name] = object_countings.get(class_name, 0) + 1\n        print(\"Total Number of Object Detected : {}\".format(num_objects))",
+        "detail": "Main Part.yolo_project",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ['TF_CPP_MIN_LOG_LEVEL']",
+        "kind": 5,
+        "importPath": "Main Part.yolo_project",
+        "description": "Main Part.yolo_project",
+        "peekOfCode": "os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'\nimport cv2\nimport time, random\nimport numpy as np\nimport core.utils as utils\nimport matplotlib.pyplot as plt\nimport tensorflow as tf\nfrom core.configuration import cfg\nfrom core.utils import read_class_names\nphysical_devices = tf.config.experimental.list_physical_devices('GPU')",
+        "detail": "Main Part.yolo_project",
+        "documentation": {}
+    },
+    {
+        "label": "physical_devices",
+        "kind": 5,
+        "importPath": "Main Part.yolo_project",
+        "description": "Main Part.yolo_project",
+        "peekOfCode": "physical_devices = tf.config.experimental.list_physical_devices('GPU')\nif len(physical_devices) > 0:\n        tf.config.experimental.set_memory_growth(physical_devices[0], True)\nfrom PIL import Image\nfrom absl.flags import FLAGS\nfrom core.yolo import filter_boxes\nfrom absl import app, flags, logging\nfrom tensorflow.compat.v1 import ConfigProto\nfrom tensorflow.compat.v1 import InteractiveSession\nfrom tensorflow.python.saved_model import tag_constants",
+        "detail": "Main Part.yolo_project",
+        "documentation": {}
+    }
+]
